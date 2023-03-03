@@ -1,0 +1,15 @@
+C:\Users\STI\source\repos\daps_console\bin\Debug\net6.0\daps_console.exe
+C:\Users\STI\source\repos\daps_console\bin\Debug\net6.0\daps_console.deps.json
+C:\Users\STI\source\repos\daps_console\bin\Debug\net6.0\daps_console.runtimeconfig.json
+C:\Users\STI\source\repos\daps_console\bin\Debug\net6.0\daps_console.dll
+C:\Users\STI\source\repos\daps_console\bin\Debug\net6.0\daps_console.pdb
+C:\Users\STI\source\repos\daps_console\obj\Debug\net6.0\daps_console.csproj.AssemblyReference.cache
+C:\Users\STI\source\repos\daps_console\obj\Debug\net6.0\daps_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STI\source\repos\daps_console\obj\Debug\net6.0\daps_console.AssemblyInfoInputs.cache
+C:\Users\STI\source\repos\daps_console\obj\Debug\net6.0\daps_console.AssemblyInfo.cs
+C:\Users\STI\source\repos\daps_console\obj\Debug\net6.0\daps_console.csproj.CoreCompileInputs.cache
+C:\Users\STI\source\repos\daps_console\obj\Debug\net6.0\daps_console.dll
+C:\Users\STI\source\repos\daps_console\obj\Debug\net6.0\refint\daps_console.dll
+C:\Users\STI\source\repos\daps_console\obj\Debug\net6.0\daps_console.pdb
+C:\Users\STI\source\repos\daps_console\obj\Debug\net6.0\daps_console.genruntimeconfig.cache
+C:\Users\STI\source\repos\daps_console\obj\Debug\net6.0\ref\daps_console.dll
